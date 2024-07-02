@@ -245,7 +245,7 @@ img {
 }
 
 .contact input:focus,
-.contect textarea:focus {
+.contact textarea:focus {
     outline: 0;
 }
 
